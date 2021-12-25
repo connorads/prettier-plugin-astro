@@ -1,5 +1,11 @@
 # prettier-plugin-astro
 
+## 0.0.12
+
+### Patch Changes
+
+- ab70152: Fix a bug in "allow shorthand" option (#87)
+
 ## 0.0.11
 
 ### Patch Changes
